@@ -1,0 +1,10 @@
+[
+    {
+        "merged": "/Users/khanhduong/Desktop/projects/tgsports-gameday2/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/androidTest/debug/xml/preferences.xml",
+        "source": "/Users/khanhduong/Desktop/projects/tgsports-gameday2/node_modules/react-native-image-crop-picker/android/build/intermediates/exploded-aar/com.facebook.react/react-native/0.51.0/res/xml/preferences.xml"
+    },
+    {
+        "merged": "/Users/khanhduong/Desktop/projects/tgsports-gameday2/node_modules/react-native-image-crop-picker/android/build/intermediates/res/merged/androidTest/debug/xml/provider_paths.xml",
+        "source": "/Users/khanhduong/Desktop/projects/tgsports-gameday2/node_modules/react-native-image-crop-picker/android/build/intermediates/bundles/debug/res/xml/provider_paths.xml"
+    }
+]

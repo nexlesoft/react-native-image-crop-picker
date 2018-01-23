@@ -1,0 +1,61 @@
+{
+  "_from": "react-native-image-crop-picker@0.18.2",
+  "_id": "react-native-image-crop-picker@0.18.2",
+  "_inBundle": false,
+  "_integrity": "sha512-Oi6C6fTe6F7Ilg8aqgvyRPgwROjAjMANfKqOrvMz5ZOohSt2UjVu62O4PA1YAXqQx+II/LfAMWyHQLEvSQoQ+g==",
+  "_location": "/react-native-image-crop-picker",
+  "_phantomChildren": {},
+  "_requested": {
+    "type": "version",
+    "registry": true,
+    "raw": "react-native-image-crop-picker@0.18.2",
+    "name": "react-native-image-crop-picker",
+    "escapedName": "react-native-image-crop-picker",
+    "rawSpec": "0.18.2",
+    "saveSpec": null,
+    "fetchSpec": "0.18.2"
+  },
+  "_requiredBy": [
+    "/"
+  ],
+  "_resolved": "https://registry.npmjs.org/react-native-image-crop-picker/-/react-native-image-crop-picker-0.18.2.tgz",
+  "_shasum": "f0cfbe4227449d84f6d5885ef37462edf6920090",
+  "_spec": "react-native-image-crop-picker@0.18.2",
+  "_where": "/Users/khanhduong/Desktop/projects/tgsports-gameday2",
+  "author": {
+    "name": "Ivan Pusic"
+  },
+  "bugs": {
+    "url": "https://github.com/ivpusic/react-native-image-crop-picker/issues"
+  },
+  "bundleDependencies": false,
+  "deprecated": false,
+  "description": "Select single or multiple images, with cropping option",
+  "homepage": "https://github.com/ivpusic/react-native-image-crop-picker#readme",
+  "keywords": [
+    "react",
+    "native",
+    "react-native",
+    "image",
+    "picker",
+    "crop",
+    "cropping",
+    "multiple",
+    "camera"
+  ],
+  "license": "MIT",
+  "main": "index.js",
+  "name": "react-native-image-crop-picker",
+  "peerDependencies": {
+    "react-native": ">=0.40.0"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/ivpusic/react-native-image-crop-picker.git"
+  },
+  "scripts": {
+    "prepublish": "rm -rf android/build",
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "version": "0.18.2"
+}
