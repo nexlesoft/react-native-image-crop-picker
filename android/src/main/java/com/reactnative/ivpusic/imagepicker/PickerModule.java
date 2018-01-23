@@ -581,11 +581,11 @@ class PickerModule extends ReactContextBaseJavaModule implements ActivityEventLi
         UCrop.Options options = new UCrop.Options();
         options.setCompressionFormat(Bitmap.CompressFormat.JPEG);
         options.setCompressionQuality(100);
-        options.setCircleDimmedLayer(cropperCircleOverlay);
-        options.setShowCropGrid(showCropGuidelines);
-        options.setHideBottomControls(hideBottomControls);
+        options.setCircleDimmedLayer(true); //
+        options.setShowCropGrid(false); //showCropGuidelines
+        options.setHideBottomControls(true); //hideBottomControls
         if (cropperToolbarTitle != null) {
-            options.setToolbarTitle(cropperToolbarTitle);
+            //options.setToolbarTitle(cropperToolbarTitle);
         }
         if (enableRotationGesture) {
             // UCropActivity.ALL = enable both rotation & scaling
